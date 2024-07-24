@@ -1,4 +1,4 @@
-id: urn:bcodmo:schema:mets-rcn-ts:bio:chl
+id: urn:mets-rcn-ts:schema:bio:chl
 name: TS_biousecase1_CHL
 description: >-
   The collection of chlorophyll from an ocean time series.
@@ -6,7 +6,7 @@ license: https://creativecommons.org/publicdomain/zero/1.0/
 imports:
   - linkml:types
 prefixes:
-  metsrcn: urn:bcodmo:schema:mets-rcn-ts:
+  metsrcn: urn:mets-rcn-ts:schema:
   linkml: https://w3id.org/linkml/
   schema: http://schema.org/
   rdfs: http://www.w3.org/2000/01/rdf-schema#
